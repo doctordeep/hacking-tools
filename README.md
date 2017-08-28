@@ -1,15 +1,16 @@
 # hacking-tools
 
-## A list with major hacing devices
+## A list with major hacking devices
 
 1. Rasberry Pi https://www.raspberrypi.org/
-2. USB Rubber Ducky https://hakshop.com/collections/usb-rubber-ducky/products/usb-rubber-ducky-deluxe
-3. Lan Turtle https://hakshop.com/collections/lan-turtle
-3. WiFi Pineapple https://hakshop.com/products/wifi-pineapple
-4. Bluetoot sniff https://github.com/greatscottgadgets/ubertooth/
-5. Keystroke Logger http://download.cnet.com/Keystroke-Logger/3000-2162_4-10656413.html (capture keyboard from usb key)
-6. RFID Hacking Tools https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/ (capture badge datas or similar)
-7. USB Condom and Juice Jacking https://www.wallofsheep.com/pages/juice https://int3.cc/products/usbcondoms
+2. 4. Kali for samsung galaxy note 3 https://forum.xda-developers.com/galaxy-note-3/development/kali-nethunter-galaxy-note-3-t3287561 / http://www.androidgalaxys.net/guida-galaxy/guida-installazione-di-un-kernel-modificati-sui-samsung-galaxy/
+3. USB Rubber Ducky https://hakshop.com/collections/usb-rubber-ducky/products/usb-rubber-ducky-deluxe
+4. Lan Turtle https://hakshop.com/collections/lan-turtle
+5. WiFi Pineapple https://hakshop.com/products/wifi-pineapple
+6. Bluetoot sniff https://github.com/greatscottgadgets/ubertooth/
+7. Keystroke Logger http://download.cnet.com/Keystroke-Logger/3000-2162_4-10656413.html (capture keyboard from usb key)
+8. RFID Hacking Tools https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/ (capture badge datas or similar)
+9. USB Condom and Juice Jacking https://www.wallofsheep.com/pages/juice https://int3.cc/products/usbcondoms
 
 ## Other hacking tools 
 
@@ -22,7 +23,7 @@
 1. Research on stuxnet https://github.com/micrictor/stuxnet
 2. USNKill https://github.com/hephaest0s/usbkill
 3. USBDrive by hacking https://null-byte.wonderhowto.com/how-to/make-your-own-bad-usb-0165419/ (videos https://www.youtube.com/watch?v=zow2s2AsB54 https://www.youtube.com/watch?v=mcHU6nbQ2RU)
-4. Kali for Android  https://forum.xda-developers.com/galaxy-note-3/development/kali-nethunter-galaxy-note-3-t3287561
+
 
 
 
