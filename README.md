@@ -13,6 +13,7 @@
 
 ## Other hacking tools 
 
+* Rasberry Pi zero and PoisonTap https://samy.pl/poisontap/
 * car hacking https://greatscottgadgets.com/hackrf/ and https://www.macchina.cc/
 
 
