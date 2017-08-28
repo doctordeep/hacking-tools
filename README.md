@@ -22,6 +22,7 @@
 1. Research on stuxnet https://github.com/micrictor/stuxnet
 2. USNKill https://github.com/hephaest0s/usbkill
 3. USBDrive by hacking https://null-byte.wonderhowto.com/how-to/make-your-own-bad-usb-0165419/ (videos https://www.youtube.com/watch?v=zow2s2AsB54 https://www.youtube.com/watch?v=mcHU6nbQ2RU)
+4. Kali for Android  https://forum.xda-developers.com/galaxy-note-3/development/kali-nethunter-galaxy-note-3-t3287561
 
 
 
