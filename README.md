@@ -3,7 +3,7 @@
 ## A list with major hacking devices
 
 1. Rasberry Pi https://www.raspberrypi.org/
-2. 4. Kali for samsung galaxy note 3 https://forum.xda-developers.com/galaxy-note-3/development/kali-nethunter-galaxy-note-3-t3287561 / http://www.androidgalaxys.net/guida-galaxy/guida-installazione-di-un-kernel-modificati-sui-samsung-galaxy/
+2. 4. Kali for samsung galaxy note 3 (ARM 32bit CPU) https://forum.xda-developers.com/galaxy-note-3/development/kali-nethunter-galaxy-note-3-t3287561 / http://www.androidgalaxys.net/guida-galaxy/guida-installazione-di-un-kernel-modificati-sui-samsung-galaxy/
 3. USB Rubber Ducky https://hakshop.com/collections/usb-rubber-ducky/products/usb-rubber-ducky-deluxe
 4. Lan Turtle https://hakshop.com/collections/lan-turtle
 5. WiFi Pineapple https://hakshop.com/products/wifi-pineapple
