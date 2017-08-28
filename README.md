@@ -35,4 +35,5 @@
 
 # Stores
 
+- https://hakshop.com/
 - http://hackerthings.com/
